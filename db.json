@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "email": "email@teste.com",
+      "password": "$2a$10$o9w1SjZf6JjYBP1JPMTOX.4hZlOcG2izRy7hr/f7H5o392Vcqzj0y",
+      "account": "buyer",
+      "type": "PF",
+      "info": {
+        "nome": "Lara",
+        "sobrenome": "Ponciano",
+        "CPF": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 522,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 1
+    },
+    {
+      "email": "emailORG@teste.com",
+      "password": "$2a$10$55eKoQGWpYUefDOY5T0A9e/4G7lPfLGRVvO2uP4Kz9TzwPiYeKhs2",
+      "account": "buyer",
+      "type": "PJ",
+      "info": {
+        "nomeDoProjeto/RazaoSocial": "LaraCompany",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 540,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 2
+    },
+    {
+      "email": "emailRES@teste.com",
+      "password": "$2a$10$Jgeum/APIAhlFaOvvBwbR.LC2JsAjewG5k7GR1tALDgtztZap2LJa",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "LaraRestaurant",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 3
+    }
+  ],
+  "foods": [
+    {
+      "nomeDoProduto": "Vegetables",
+      "descricao": "Nothing in the moment",
+      "precoDeCusto": 3,
+      "precoDeRevenda": 4,
+      "userId": "3",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "nomeDoProduto": "Vegetables",
+      "descricao": "Nothing in the moment",
+      "precoDeRevenda": 4,
+      "userId": "1",
+      "id": 1
+    }
+  ]
+}
