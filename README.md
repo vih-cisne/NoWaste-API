@@ -10,7 +10,7 @@ Existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que pod
 
 # Rotas que não precisam de autenticação
 
-### Cadastro
+* ## Cadastro
 
 POST /register <br/>
 POST /signup <br/>
@@ -103,7 +103,7 @@ Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", te
 
 
 
-### Login
+* ## Login
 
 POST /login <br/>
 POST /signin
@@ -154,7 +154,7 @@ Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usu
 
 # Rotas que precisam de autenticação
 
-### foods
+* ## foods
 
 GET /foods
 
@@ -203,12 +203,50 @@ Resposta:
 ````
 
 
-ToDo:
 
+* ## cart
 
-* **cart**
+POST /users/:userId/cart <br/>
+DELETE /cart/:idProduct <br/>
+PATCH /cart/:idProduct <br/> 
+GET /users/:userId/cart <br/> 
 
-* get sellers?
+O userId se refere ao id do usuário logado. Para o DELETE e PATCH é preciso passar o id do produto como parâmetro do endpoint. O método GET não necessita body, apenas adicionar no endpoint o id do usuário para fazer a filtragem com o query params.
+
+Obs: Se o userId não for o referente ao id do usuário logado ou o id do alimento não for de um alimento pertencente ao usuário logado, a seguinte mensagem de erro será recebida:
+
+````
+"Private resource creation: request body must have a reference to the owner id"
+````
+
+Ex: 
+
+#### POST
+
+Envio: 
+````
+
+{
+	"nomeDoProduto": "Vegetables",
+	"descricao": "Nothing in the moment",
+	"preco": 4
+}
+
+````
+
+Resposta:
+
+````
+{
+	"nomeDoProduto": "Vegetables",
+	"descricao": "Nothing in the moment",
+	"preco": 4,
+	"userId": "2",
+	"id": 3
+}
+
+````
+
 
 
 
