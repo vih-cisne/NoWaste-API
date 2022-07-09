@@ -71,25 +71,524 @@
         }
       },
       "id": 3
+    },
+    {
+      "email": "pizza@teste.com",
+      "password": "$2a$10$kjKfuTjRlCoQj3.1cIneC./nhZUUp2XuflCOUFUxYJ31pxvqfgxcm",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "Pizzaria De La Mama",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 4
+    },
+    {
+      "email": "burger@teste.com",
+      "password": "$2a$10$gT0J9ozageN0FE/QgHGNxONspTJt768bbs7kuaW3W54Jp0E8co1hK",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "Burger085",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 6
+    },
+    {
+      "email": "mercado@teste.com",
+      "password": "$2a$10$RnlUvxgggP8TsRQopEDtZe2UCSAitrNGGA8ZrI9HD.3WL1BfOc3LS",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "Super Preço",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 7
+    },
+    {
+      "email": "padaria@teste.com",
+      "password": "$2a$10$FEUZ95ZILeHa7.A8AXUdtOq3WEpOBliemv6fJtA1X7UhVc9QUGAwm",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "Ipê Padaria",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 8
+    },
+    {
+      "email": "doces@teste.com",
+      "password": "$2a$10$Bm0OYX5.cm8GqEvA49/YeuZ4AziniQXKoBiTlA0izMV4r.PwIVTqS",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "Doceria Fortal",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 9
+    },
+    {
+      "email": "cafeteria@teste.com",
+      "password": "$2a$10$RdchzX73Vq02hl.HLfnfbewRYDYVHvx9ZUxgXlq9Ebu1PfG6q1azG",
+      "account": "seller",
+      "type": "PJ",
+      "info": {
+        "razaoSocial": "Amika Coffee",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 545,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 10
+    },
+    {
+      "email": "comida.org@teste.com",
+      "password": "$2a$10$lgIbP4aA218/BM0Jatp7KekkiuF0A2XaRysPoxuam1IcmGevTPIxG",
+      "account": "buyer",
+      "type": "PJ",
+      "info": {
+        "nomeDoProjeto/RazaoSocial": "Comida para Todos",
+        "responsavel": "Lara",
+        "CNPJ": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 540,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 11
+    },
+    {
+      "email": "kenzinho@teste.com",
+      "password": "$2a$10$HPCSwbWN4Frgsle.gxe2o..As4reyrwJaNxLynzE0T2MmTKk2dCtG",
+      "account": "buyer",
+      "type": "PF",
+      "info": {
+        "nome": "Kenzinho",
+        "CPF": "000.000.000-00",
+        "contato": "4002-8922",
+        "endereço": {
+          "rua": "Das Laranjeiras",
+          "numero": 522,
+          "complemento": "",
+          "bairro": "Qualquer",
+          "CEP": "62000-000"
+        },
+        "formasdePagamento": {
+          "dinheiro": "",
+          "pix": "chave"
+        }
+      },
+      "id": 12
     }
   ],
   "foods": [
     {
-      "nomeDoProduto": "Vegetables",
-      "descricao": "Nothing in the moment",
-      "precoDeCusto": 3,
-      "precoDeRevenda": 4,
+      "nomeDoProduto": "Kit Pizzas Variadas",
+      "descricao": "5 pedaços de pizzas salgadas de sabores variados",
+      "src": "https://static.wixstatic.com/media/7062e4_7b59f6e108d244fa8002821b298ae7ed~mv2.jpg/v1/fill/w_640,h_652,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7062e4_7b59f6e108d244fa8002821b298ae7ed~mv2.jpg",
+      "categoria": "Pizzaria",
+      "pesoAprox": 0.6,
+      "precoOriginal": 40,
+      "precoDeCusto": 15,
+      "precoDeRevenda": 25,
       "userId": "3",
       "id": 1
+    },
+    {
+      "nomeDoProduto": "Kit Pizzas Variadas",
+      "descricao": "5 pedaços de pizzas salgadas de sabores variados",
+      "src": "https://static.wixstatic.com/media/7062e4_7b59f6e108d244fa8002821b298ae7ed~mv2.jpg/v1/fill/w_640,h_652,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7062e4_7b59f6e108d244fa8002821b298ae7ed~mv2.jpg",
+      "categoria": "Pizzaria",
+      "pesoAprox": 0.6,
+      "precoOriginal": 40,
+      "precoDeCusto": 15,
+      "precoDeRevenda": 25,
+      "userId": "4",
+      "id": 2
+    },
+    {
+      "nomeDoProduto": "Kit 2 pedaços + refri",
+      "descricao": "2 pedaços de pizza do mesmo sabor e uma latinha de refri",
+      "src": "https://cdn.asconapizza.com/img/specials/pizza-slice-soda-lunch-special.jpg",
+      "categoria": "Pizzaria",
+      "pesoAprox": 0.3,
+      "precoOriginal": 25,
+      "precoDeCusto": 10,
+      "precoDeRevenda": 15,
+      "userId": "4",
+      "id": 3
+    },
+    {
+      "nomeDoProduto": "Pizza Surpresa",
+      "descricao": "Pizza Média com 4 sabores, sendo um deles doce",
+      "src": "https://instadelivery-public.nyc3.digitaloceanspaces.com/itens/AXtOw0NRDkKcOXAkItqZM37NGP8oqGWjZ4A7MoJi.png",
+      "categoria": "Pizzaria",
+      "pesoAprox": 0.8,
+      "precoOriginal": 40,
+      "precoDeCusto": 10,
+      "precoDeRevenda": 20,
+      "userId": "4",
+      "id": 4
+    },
+    {
+      "nomeDoProduto": "2 Smashs da Casa",
+      "descricao": "2 Smashs suplos com cheddar, salada e molho especial",
+      "src": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/black_and_blue_burger_95881_16x9.jpg",
+      "categoria": "Burger",
+      "pesoAprox": 0.5,
+      "precoOriginal": 37,
+      "precoDeCusto": 12,
+      "precoDeRevenda": 22,
+      "userId": "6",
+      "id": 5
+    },
+    {
+      "nomeDoProduto": "Burger Surpresa com Batata",
+      "descricao": "Combinação variada de pão, carne e toppings",
+      "src": "https://media-cdn.tripadvisor.com/media/photo-s/1c/68/34/4c/combo-ttburger-batata.jpg",
+      "categoria": "Burger",
+      "pesoAprox": 0.35,
+      "precoOriginal": 28,
+      "precoDeCusto": 8,
+      "precoDeRevenda": 15,
+      "userId": "6",
+      "id": 6
+    },
+    {
+      "nomeDoProduto": "Burger no Pão de Beterraba",
+      "descricao": "Burger de 180g, mini rúcula, picles de cebola roxa e cheddar no pão rosa",
+      "src": "https://www.peugeot-saveurs.com/wp/wp-content/uploads/2021/02/IMG_0063-1024x0.jpg",
+      "categoria": "Burger",
+      "pesoAprox": 0.6,
+      "precoOriginal": 40,
+      "precoDeCusto": 12,
+      "precoDeRevenda": 27,
+      "userId": "6",
+      "id": 7
+    },
+    {
+      "nomeDoProduto": "Kit Arrasa Coração",
+      "descricao": "Porção com onion rings, batata frita e hot wings com ketchup de goiabada",
+      "src": "https://img.freepik.com/fotos-gratis/produtos-de-fast-food-aneis-de-cebola-batata-frita-e-frango-frito-na-mesa-escura-vista-de-cima_318269-253.jpg",
+      "categoria": "Burger",
+      "pesoAprox": 0.5,
+      "precoOriginal": 37,
+      "precoDeCusto": 12,
+      "precoDeRevenda": 22,
+      "userId": "6",
+      "id": 8
+    },
+    {
+      "nomeDoProduto": "Kit Salada Caprese",
+      "descricao": "2 pepinos, 1 cx de tomate cereja, 1pct de azeitonas e 300g de queijo feta",
+      "src": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/black_and_blue_burger_95881_16x9.jpg",
+      "categoria": "Mercado",
+      "pesoAprox": 0.8,
+      "precoOriginal": 15,
+      "precoDeCusto": 5,
+      "precoDeRevenda": 10,
+      "userId": "7",
+      "id": 10
+    },
+    {
+      "nomeDoProduto": "Kit Hortifruti",
+      "descricao": "Cesta de hortifrutis variados com 6 a 8 produtos",
+      "src": "https://organicosinbox.com.br/wp-content/uploads/2020/03/pequena.jpg",
+      "categoria": "Mercado",
+      "pesoAprox": 1.1,
+      "precoOriginal": 20,
+      "precoDeCusto": 5,
+      "precoDeRevenda": 12,
+      "userId": "7",
+      "id": 11
+    },
+    {
+      "nomeDoProduto": "Kit Próximos ao Vencimento",
+      "descricao": "Kit com 3 produtos variados próximos ao vencimento",
+      "src": "https://images.tcdn.com.br/img/img_prod/818912/kit_lanche_we_alimentos_3537_1_11f569d388111bf6b7bfbb7e58c2a061.png",
+      "categoria": "Mercado",
+      "pesoAprox": 0.85,
+      "precoOriginal": 50,
+      "precoDeCusto": 21,
+      "precoDeRevenda": 32,
+      "userId": "7",
+      "id": 12
+    },
+    {
+      "nomeDoProduto": "Kit Boulangerie Salgado",
+      "descricao": "3 items de produção diária da padaria, sendo um deles recheado",
+      "src": "https://static4.depositphotos.com/1010050/326/i/450/depositphotos_3261879-stock-photo-variety-of-baked-products-at.jpg",
+      "categoria": "Mercado",
+      "pesoAprox": 0.7,
+      "precoOriginal": 22,
+      "precoDeCusto": 7,
+      "precoDeRevenda": 11,
+      "userId": "7",
+      "id": 13
+    },
+    {
+      "nomeDoProduto": "Kit Boulangerie Doce",
+      "descricao": "3 porções de biscoitos do dia",
+      "src": "https://www.baressp.com.br/bares/fotos2/amabile_2.jpg",
+      "categoria": "Mercado",
+      "pesoAprox": 0.6,
+      "precoOriginal": 21,
+      "precoDeCusto": 6,
+      "precoDeRevenda": 12,
+      "userId": "7",
+      "id": 14
+    },
+    {
+      "nomeDoProduto": "Kit Antepasto",
+      "descricao": "3 pães de fermentação natural e 3 conservas variadas",
+      "src": "https://saboresdacidade.com/wp-content/uploads/2022/04/mesa-com-paes-diversos-e-conservas-682x1024.jpeg",
+      "categoria": "Padaria",
+      "pesoAprox": 1.4,
+      "precoOriginal": 75,
+      "precoDeCusto": 20,
+      "precoDeRevenda": 35,
+      "userId": "8",
+      "id": 15
+    },
+    {
+      "nomeDoProduto": "Kit do Dia",
+      "descricao": "2 pães do dia",
+      "src": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/1558507/kristen-little-sourdough-today-041420-square.jpeg",
+      "categoria": "Padaria",
+      "pesoAprox": 0.8,
+      "precoOriginal": 30,
+      "precoDeCusto": 10,
+      "precoDeRevenda": 20,
+      "userId": "8",
+      "id": 16
+    },
+    {
+      "nomeDoProduto": "Pão Colorido da Fornada",
+      "descricao": "1 pão colorido naturalmente com batata doce roxa, jenipapo, espinafre ou cúrcuma",
+      "src": "https://data.thefeedfeed.com/static/2020/04/10/15865520275e90dcdbda1b2.png",
+      "categoria": "Padaria",
+      "pesoAprox": 0.8,
+      "precoOriginal": 22,
+      "precoDeCusto": 6,
+      "precoDeRevenda": 12,
+      "userId": "8",
+      "id": 17
+    },
+    {
+      "nomeDoProduto": "Kit Folhados Doces",
+      "descricao": "6 unidades variadas dos folhados de canela, goiabada, nutella e pistachio",
+      "src": "https://www.supermarketperimeter.com/ext/resources/2020/7/AdobeStock_109575100.jpg?t=1596206530&width=1080",
+      "categoria": "Padaria",
+      "pesoAprox": 1,
+      "precoOriginal": 45,
+      "precoDeCusto": 15,
+      "precoDeRevenda": 24,
+      "userId": "8",
+      "id": 18
+    },
+    {
+      "nomeDoProduto": "Kit Lanche",
+      "descricao": "2 croissant e 2 folhado doce",
+      "src": "https://www.lurpak.com/siteassets/final-recipe-assets/lurpak_b_croissant.jpg",
+      "categoria": "Padaria",
+      "pesoAprox": 0.7,
+      "precoOriginal": 42,
+      "precoDeCusto": 10,
+      "precoDeRevenda": 27,
+      "userId": "8",
+      "id": 19
+    },
+    {
+      "nomeDoProduto": "Kit Docinhos",
+      "descricao": "12 docinhos variados",
+      "src": "https://img.elo7.com.br/product/original/1431CBD/kit-degustacao-docinhos-doces.jpg",
+      "categoria": "Doces",
+      "pesoAprox": 0.3,
+      "precoOriginal": 25,
+      "precoDeCusto": 8,
+      "precoDeRevenda": 15,
+      "userId": "9",
+      "id": 20
+    },
+    {
+      "nomeDoProduto": "Kit Cupcake",
+      "descricao": "3 cupcakes variados",
+      "src": "https://s2.glbimg.com/YhldyosloTHdWf0T9G62ws_3AVY=/0x0:747x500/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/l/R/cU0t9RQ2SaEIBjzLTLig/cupcake-baunilha-receita.jpg",
+      "categoria": "Doces",
+      "pesoAprox": 0.6,
+      "precoOriginal": 30,
+      "precoDeCusto": 9,
+      "precoDeRevenda": 21,
+      "userId": "9",
+      "id": 21
+    },
+    {
+      "nomeDoProduto": "Caixa com 6 Brownies",
+      "descricao": "6 fatias de brownie de sabores variados",
+      "src": "https://s2.glbimg.com/YhldyosloTHdWf0T9G62ws_3AVY=/0x0:747x500/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/l/R/cU0t9RQ2SaEIBjzLTLig/cupcake-baunilha-receita.jpg",
+      "categoria": "Doces",
+      "pesoAprox": 0.5,
+      "precoOriginal": 48,
+      "precoDeCusto": 12,
+      "precoDeRevenda": 36,
+      "userId": "9",
+      "id": 22
+    },
+    {
+      "nomeDoProduto": "Bolo individual Surpresa",
+      "descricao": "1 mini bolo confeitado de cacau, doce de leite, côco, morango, brigadeiro ou suspiro",
+      "src": "https://dcom-prod.imgix.net/files/wp-content/uploads/2017/10/1508179195-bolo-crocante-individual_616x462.jpg?w=1280&h=720&crop=focalpoint&fp-x=0.5&fp-y=0.1&fit=crop&auto=compress&q=75",
+      "categoria": "Doces",
+      "pesoAprox": 0.3,
+      "precoOriginal": 15,
+      "precoDeCusto": 4,
+      "precoDeRevenda": 8,
+      "userId": "9",
+      "id": 23
+    },
+    {
+      "nomeDoProduto": "Caixa de Donuts",
+      "descricao": "4 donuts super recheados de sabores variados",
+      "src": "https://midias.agazeta.com.br/2021/10/01/box-de-donuts-cookie-monster-da-cookie-crumble-615791.jpg",
+      "categoria": "Doces",
+      "pesoAprox": 0.85,
+      "precoOriginal": 40,
+      "precoDeCusto": 12,
+      "precoDeRevenda": 24,
+      "userId": "9",
+      "id": 24
+    },
+    {
+      "nomeDoProduto": "Kit Café da Tarde",
+      "descricao": "2 fatias do bolo do dia e 200g do café da casa",
+      "src": "https://www.mexidodeideias.com.br/wp-content/uploads/2022/05/Bolo-bem-casado01-3.jpg",
+      "categoria": "Cafeteria",
+      "pesoAprox": 0.6,
+      "precoOriginal": 32,
+      "precoDeCusto": 10,
+      "precoDeRevenda": 23,
+      "userId": "10",
+      "id": 25
+    },
+    {
+      "nomeDoProduto": "Duo de Quiche",
+      "descricao": "2 mini quiches de sabores variados",
+      "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/7e/7d/29/quiche-alho-poro-cafe.jpg",
+      "categoria": "Cafeteria",
+      "pesoAprox": 0.6,
+      "precoOriginal": 28,
+      "precoDeCusto": 6,
+      "precoDeRevenda": 15,
+      "userId": "10",
+      "id": 26
+    },
+    {
+      "nomeDoProduto": "Cheesecake do Dia",
+      "descricao": "1 fatia de cheesecake",
+      "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/7e/7d/29/quiche-alho-poro-cafe.jpg",
+      "categoria": "Cafeteria",
+      "pesoAprox": 0.3,
+      "precoOriginal": 16,
+      "precoDeCusto": 7,
+      "precoDeRevenda": 10,
+      "userId": "10",
+      "id": 27
+    },
+    {
+      "nomeDoProduto": "Pão de Queijo da Serra da Canastra",
+      "descricao": "4 pães de queijo de 100g bem quentinhos",
+      "src": "https://zinpao.com.br/wp-content/uploads/2018/08/PAO_QUEIJO_BIG_100G-800x570.jpg",
+      "categoria": "Cafeteria",
+      "pesoAprox": 0.4,
+      "precoOriginal": 24,
+      "precoDeCusto": 8,
+      "precoDeRevenda": 14,
+      "userId": "10",
+      "id": 28
     }
   ],
-  "cart": [
-    {
-      "nomeDoProduto": "Vegetables",
-      "descricao": "Nothing in the moment",
-      "precoDeRevenda": 4,
-      "userId": "1",
-      "id": 1
-    }
-  ]
+  "cart": []
 }
