@@ -1,5 +1,6 @@
 {
-  "users": 600,
+  "users": 640,
   "foods" : 640,
-  "cart" : 600
+  "cart" : 600,
+  "sales" : 600
 }
