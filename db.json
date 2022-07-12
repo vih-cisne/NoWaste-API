@@ -9,7 +9,7 @@
         "name": "Lara",
         "CPF": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Benedita Sousa Rodrigues",
           "numero": 522,
           "complemento": "",
@@ -17,10 +17,6 @@
           "CEP": "62000-000",
           "cidade": "Sobral",
           "estado": "CE"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
         }
       },
       "id": 1
@@ -35,7 +31,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Belo Horizonte",
           "numero": 540,
           "complemento": "",
@@ -56,7 +52,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Antônio Duque da Silva",
           "numero": 545,
           "complemento": "",
@@ -79,7 +75,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Avenida Dom Jose Tupinamba da Frota",
           "numero": 200,
           "complemento": "",
@@ -102,7 +98,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Travessa Antônio Rodrigues",
           "numero": 545,
           "complemento": "",
@@ -125,7 +121,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Antônio Rodrigues Magalhães",
           "numero": 545,
           "complemento": "",
@@ -148,7 +144,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Antônio Brandão Oliveira",
           "numero": 545,
           "complemento": "",
@@ -170,7 +166,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Antônio Domingos da silva",
           "numero": 545,
           "complemento": "",
@@ -193,7 +189,7 @@
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua Antônio Félix Ibiapina",
           "numero": 540,
           "complemento": "",
@@ -214,7 +210,7 @@
         "name": "Kenzinho",
         "CPF": "000.000.000-00",
         "contato": "4002-8922",
-        "endereço": {
+        "endereco": {
           "rua": "Rua 1º de Maio",
           "numero": 522,
           "complemento": "",
