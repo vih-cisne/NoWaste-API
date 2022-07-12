@@ -6,16 +6,17 @@
       "account": "buyer",
       "type": "PF",
       "info": {
-        "nome": "Lara",
-        "sobrenome": "Ponciano",
+        "name": "Lara",
         "CPF": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Benedita Sousa Rodrigues",
           "numero": 522,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
+          "bairro": "Sinhá Sabóia",
+          "CEP": "62000-000",
+          "cidade": "Sobral",
+          "estado": "CE"
         },
         "formasdePagamento": {
           "dinheiro": "",
@@ -30,47 +31,19 @@
       "account": "buyer",
       "type": "PJ",
       "info": {
-        "nomeDoProjeto/RazaoSocial": "LaraCompany",
+        "razaoSocial": "LaraCompany",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Belo Horizonte",
           "numero": 540,
           "complemento": "",
-          "bairro": "Qualquer",
+          "bairro": "Alto da Brasília",
           "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
         }
       },
       "id": 2
-    },
-    {
-      "email": "emailRES@teste.com",
-      "password": "$2a$10$Jgeum/APIAhlFaOvvBwbR.LC2JsAjewG5k7GR1tALDgtztZap2LJa",
-      "account": "seller",
-      "type": "PJ",
-      "info": {
-        "razaoSocial": "LaraRestaurant",
-        "responsavel": "Lara",
-        "CNPJ": "000.000.000-00",
-        "contato": "4002-8922",
-        "endereço": {
-          "rua": "Das Laranjeiras",
-          "numero": 545,
-          "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
-        }
-      },
-      "id": 3
     },
     {
       "email": "pizza@teste.com",
@@ -78,20 +51,19 @@
       "account": "seller",
       "type": "PJ",
       "info": {
+        "src": "https://img.freepik.com/vetores-gratis/fatia-de-pizza-derretida-icone-dos-desenhos-animados-ilustracao_138676-2672.jpg",
         "razaoSocial": "Pizzaria De La Mama",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Antônio Duque da Silva",
           "numero": 545,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Pedrinhas",
+          "CEP": "62000-000",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 4
@@ -102,20 +74,19 @@
       "account": "seller",
       "type": "PJ",
       "info": {
+        "src": "https://img.freepik.com/premium-vector/burger-icon-fast-food-collection-isolated-food-icon_194824-6.jpg?w=2000",
         "razaoSocial": "Burger085",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
-          "numero": 545,
+          "rua": "Avenida Dom Jose Tupinamba da Frota",
+          "numero": 200,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Centro",
+          "CEP": "62010-290",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 6
@@ -126,20 +97,19 @@
       "account": "seller",
       "type": "PJ",
       "info": {
+        "src" : "data:image/png;base64,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",
         "razaoSocial": "Super Preço",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Travessa Antônio Rodrigues",
           "numero": 545,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Dom José",
+          "CEP": "62000-000",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 7
@@ -150,20 +120,19 @@
       "account": "seller",
       "type": "PJ",
       "info": {
+        "src": "https://cdn-icons-png.flaticon.com/512/2289/2289870.png",
         "razaoSocial": "Ipê Padaria",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Antônio Rodrigues Magalhães",
           "numero": 545,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Dom Expedito",
+          "CEP": "62000-000",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 8
@@ -174,20 +143,19 @@
       "account": "seller",
       "type": "PJ",
       "info": {
-        "razaoSocial": "Doceria Fortal",
+        "src" : "https://images.vexels.com/media/users/3/240310/isolated/preview/a68abe7af1d228c5fc81361c984a52d0-doces-e-confeitaria-38.png",
+        "razaoSocial": "Doceria Portal",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Antônio Brandão Oliveira",
           "numero": 545,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Campo dos Velhos",
+          "CEP": "62000-000",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 9
@@ -203,15 +171,13 @@
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Antônio Domingos da silva",
           "numero": 545,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Junco",
+          "CEP": "62000-000",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 10
@@ -222,20 +188,19 @@
       "account": "buyer",
       "type": "PJ",
       "info": {
+        "src": "https://png.pngtree.com/png-vector/20190328/ourlarge/pngtree-vector-coffee-icon-png-image_883268.jpg",
         "nomeDoProjeto/RazaoSocial": "Comida para Todos",
         "responsavel": "Lara",
         "CNPJ": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua Antônio Félix Ibiapina",
           "numero": 540,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Alto do Cristo",
+          "CEP": "62020-390",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 11
@@ -246,19 +211,17 @@
       "account": "buyer",
       "type": "PF",
       "info": {
-        "nome": "Kenzinho",
+        "name": "Kenzinho",
         "CPF": "000.000.000-00",
         "contato": "4002-8922",
         "endereço": {
-          "rua": "Das Laranjeiras",
+          "rua": "Rua 1º de Maio",
           "numero": 522,
           "complemento": "",
-          "bairro": "Qualquer",
-          "CEP": "62000-000"
-        },
-        "formasdePagamento": {
-          "dinheiro": "",
-          "pix": "chave"
+          "bairro": "Vila União",
+          "CEP": "62021-030",
+          "cidade": "Sobral",
+          "estado": "CE"
         }
       },
       "id": 12
@@ -597,7 +560,7 @@
       "categoria": "Cafeteria",
       "pesoAprox": 0.4,
       "preco": 14,
-      "date": "09/06/2022",
+      "date": "06/03/2022",
       "userId": "10",
       "id": 1
     },
@@ -607,7 +570,7 @@
       "categoria": "Cafeteria",
       "pesoAprox": 0.6,
       "precoDeRevenda": 15,
-      "date": "10/05/2022",
+      "date": "06/10/2022",
       "userId": "10",
       "id": 2
     },
@@ -617,7 +580,7 @@
       "categoria": "Cafeteria",
       "pesoAprox": 0.6,
       "precoDeRevenda": 15,
-      "date": "10/05/2022",
+      "date": "05/04/2022",
       "userId": "10",
       "id": 3
     },
@@ -627,7 +590,7 @@
       "categoria": "Cafeteria",
       "pesoAprox": 0.6,
       "precoDeRevenda": 15,
-      "date": "1605/2022",
+      "date": "05/16/2022",
       "userId": "10",
       "id": 4
     },
@@ -637,7 +600,7 @@
       "categoria": "Cafeteria",
       "pesoAprox": 0.6,
       "precoDeRevenda": 15,
-      "date": "16/05/2022",
+      "date": "05/16/2022",
       "userId": "10",
       "id": 5
     }
