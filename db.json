@@ -555,7 +555,9 @@
       "nomeDoProduto": "Pão de Queijo da Serra da Canastra",
       "categoria": "Cafeteria",
       "pesoAprox": 0.4,
-      "preco": 14,
+      "precoOriginal": 24,
+      "precoDeCusto": 8,
+      "precoDeRevenda": 14,
       "date": "06/03/2022",
       "userId": "10",
       "id": 1
@@ -565,6 +567,8 @@
       "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/7e/7d/29/quiche-alho-poro-cafe.jpg",
       "categoria": "Cafeteria",
       "pesoAprox": 0.6,
+      "precoOriginal": 28,
+      "precoDeCusto": 6,
       "precoDeRevenda": 15,
       "date": "06/10/2022",
       "userId": "10",
@@ -575,30 +579,13 @@
       "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/7e/7d/29/quiche-alho-poro-cafe.jpg",
       "categoria": "Cafeteria",
       "pesoAprox": 0.6,
+      "precoOriginal": 28,
+      "precoDeCusto": 6,
       "precoDeRevenda": 15,
       "date": "05/04/2022",
       "userId": "10",
       "id": 3
-    },
-    {
-      "nomeDoProduto": "Duo de Quiche",
-      "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/7e/7d/29/quiche-alho-poro-cafe.jpg",
-      "categoria": "Cafeteria",
-      "pesoAprox": 0.6,
-      "precoDeRevenda": 15,
-      "date": "05/16/2022",
-      "userId": "10",
-      "id": 4
-    },
-    {
-      "nomeDoProduto": "Duo de Quiche",
-      "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/7e/7d/29/quiche-alho-poro-cafe.jpg",
-      "categoria": "Cafeteria",
-      "pesoAprox": 0.6,
-      "precoDeRevenda": 15,
-      "date": "05/16/2022",
-      "userId": "10",
-      "id": 5
     }
+    
   ]
 }
